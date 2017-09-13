@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    display: block;
+    height: 205;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    margin-right: -30px;
+    -ms-overflow-style: scrollbar;
+    -webkit-app-region:drag;
+
+}
+p {
+    color: lime;
+    font-size: 8.25pt;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div {
+    color: red;
+    font-size: 30pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
